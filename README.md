@@ -1,4 +1,4 @@
-# Volume control assembly for Whammy headphone pamplifier
+# Volume control assembly for Whammy headphone amplifier
 Or actually for any amplifier using the ALPS potentiomenter.
 
  ![Side view](https://user-images.githubusercontent.com/3755877/154145331-b57656e8-d09c-4a42-b203-445de5511728.png)
@@ -16,3 +16,6 @@ I've 3D-printed my copy on a Creality CR-6 SE #D printer, but this model should 
 ## Images
  ![Front view](https://user-images.githubusercontent.com/3755877/154145334-42c6cd9d-c0b5-4805-b12c-1fbadda25dea.png)
  
+
+## Other sites
+Available at https://www.thingiverse.com/thing:5248543
