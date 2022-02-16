@@ -11,7 +11,7 @@ This project is made for the Modushop Galaxy Maggiorato GX283 230 x 230 mm chass
 
 The assembly is mounted in the slots of the chassis and it's set tight against the bottom and upper lid; it's a rock solid construction.
 
-I've 3D-printed my copy on a Creality CR-6 SE #D printer, but this model should work on any 3D printer.
+I've 3D-printed my copy on a Creality CR-6 SE 3D printer, but this model should work on any 3D printer.
 
 ## Images
  ![Front view](https://user-images.githubusercontent.com/3755877/154145334-42c6cd9d-c0b5-4805-b12c-1fbadda25dea.png)
